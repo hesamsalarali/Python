@@ -1,8 +1,7 @@
-# =====================================
+
 # ADVANCED PYTHON CALCULATOR
 # Developer: Hesam
-# No external libraries
-# =====================================
+
 
 history = []
 
